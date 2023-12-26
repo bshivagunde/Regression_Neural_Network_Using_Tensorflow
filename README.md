@@ -2,7 +2,7 @@
 
 ## Problem Statement
 	Data of House pricing is provided. It is required to Build Neural Network Using Tensorflow
-	Implement Bothe Feedforward and Back Propagation to understand the working of the Neural Network
+	Implement Both Feedforward and Back Propagation to understand the working of the Neural Network
 	
 ## Data Used
 - **Data File:** The Dataset Used for this Project is provided by UpGrad in the form of '.csv' file
